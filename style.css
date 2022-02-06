@@ -1,3 +1,24 @@
-h1{
-    color: yellowgreen;
+*{
+    box-sizing: border-box;
+}
+.d{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+#rer{
+    border: 1px solid black;
+}
+#rer1{
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#rer2{
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
 }
